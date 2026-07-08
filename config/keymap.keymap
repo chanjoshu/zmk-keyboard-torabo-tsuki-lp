@@ -24,7 +24,7 @@
 &trans  &kp Q      &kp L      &kp U      &kp MINUS  &kp DELETE                                          &kp F        &kp W            &kp R            &kp Y              &kp P      &trans
 &trans  &kp E      &kp LS(I)  &kp LA(A)  &kp LG(O)  &mt LCTRL COMMA  &trans      &trans                 &mt RCTRL K  &mt RIGHT_GUI T  &mt RIGHT_ALT N  &mt RIGHT_SHIFT S  &kp H      &trans
 &trans  &kp Z      &kp X      &kp C      &kp V      &kp PERIOD       &kp TAB     &kp RET                &kp G        &kp D            &kp M            &kp J              &kp B      &trans
-&trans  &kp LCTRL  &kp LGUI   &kp LALT   &kp TAB    &kp SPACE        &kp RETURN  &mt RSHIFT LANGUAGE_2  &lt 3 ENTER  &trans           &trans           &kp RGUI           &kp RCTRL  &trans
+&trans  &kp LCTRL  &kp LGUI   &kp LALT   &kp TAB    &kp SPACE        &kp RETURN  &mt RSHIFT LANGUAGE_2  &lt 3 ENTER  &trans           &trans           &mkp LCLK          &mkp RCLK  &trans
             >;
         };
 

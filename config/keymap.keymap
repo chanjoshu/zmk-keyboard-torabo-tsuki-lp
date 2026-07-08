@@ -20,11 +20,11 @@
 
         layer_0 {
             bindings = <
-&kp ESC    &kp N1     &kp N2     &kp N3     &kp N4     &kp N5                                                           &kp N6       &kp N7     &kp N8     &kp N9     &kp N0      &kp BSPC
-&kp TAB    &kp Q      &kp L      &kp U      &kp MINUS  &kp DELETE                                                       &kp F        &kp W      &kp R      &kp Y      &kp P       &kp BSPC
-&kp CAPS   &kp E      &kp LS(I)  &kp LA(A)  &kp LG(O)  &kp LC(COMMA)  &mkp LCLK                  &mkp RCLK              &kp RC(K)    &kp RG(J)  &kp RA(K)  &kp RS(S)  &kp H       &kp SQT
-&kp LSHFT  &kp Z      &kp X      &kp C      &kp V      &kp PERIOD     &kp TAB                    &kp RET                &kp G        &kp D      &kp M      &kp J      &mt B FSLH  &kp RSHFT
-&kp LCTRL  &kp LCTRL  &kp LGUI   &kp LALT   &kp BSPC   &lt 2 SPACE    &mt LEFT_SHIFT LANGUAGE_1  &mt RSHIFT LANGUAGE_2  &lt 3 ENTER  &kp BSPC   &kp RALT   &kp RGUI   &kp RCTRL   &kp RCTRL
+&trans  &trans     &trans     &trans     &trans     &trans                                                           &trans       &trans     &trans     &trans     &trans      &trans
+&trans  &kp Q      &kp L      &kp U      &kp MINUS  &kp DELETE                                                       &kp F        &kp W      &kp R      &kp Y      &kp P       &trans
+&trans  &kp E      &kp LS(I)  &kp LA(A)  &kp LG(O)  &kp LC(COMMA)  &mkp LCLK                  &mkp RCLK              &kp RC(K)    &kp RG(J)  &kp RA(K)  &kp RS(S)  &kp H       &trans
+&trans  &kp Z      &kp X      &kp C      &kp V      &kp PERIOD     &kp TAB                    &kp RET                &kp G        &kp D      &kp M      &kp J      &mt B FSLH  &trans
+&trans  &kp LCTRL  &kp LGUI   &kp LALT   &kp BSPC   &lt 2 SPACE    &mt LEFT_SHIFT LANGUAGE_1  &mt RSHIFT LANGUAGE_2  &lt 3 ENTER  &trans     &trans     &kp RGUI   &kp RCTRL   &trans
             >;
         };
 
